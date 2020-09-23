@@ -1,16 +1,17 @@
-### Hi there 👋
+# 🙋‍♂️ __Hi there My name is Priyanshu Bisht__
+- 👋 Welcome to my Github Profile
 
-<!--
-**priyanshu-bisht/priyanshu-bisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🤷‍♂️ __What do I do?__
+- 👨‍🎓 I am an Engineering Student
 
-Here are some ideas to get you started:
+# 👨‍🏭 __My Main Focus__
+- 👾 Machine Learnig
+- 💽 Deep Learning
+- 🕸 Web Development
+- 🥤 Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👀 __You__
+- 🤝 You can collaborate with me on a project if you want
+- 🍴 You can fork repo and submit a pull request
+- 📖 Open issues on my projects
+- 💭 Ask me questions if you get stuck anywhere while using the projects I made
