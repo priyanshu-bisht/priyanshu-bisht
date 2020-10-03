@@ -17,5 +17,9 @@
 - 💭 Ask me questions if you get stuck anywhere while using the projects I made
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-bisht&layout=compact&theme=graywhite)  
-![Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-bisht&theme=graywhite&show_icons=true)  
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-bisht&theme=graywhite&show_icons=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-bisht&layout=compact&theme=graywhite" />
+</a>
